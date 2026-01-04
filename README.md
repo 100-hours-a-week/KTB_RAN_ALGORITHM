@@ -38,20 +38,21 @@
 
 ## 학습 로드맵
 
-### Week 1. 스택 · 큐 · 해시
+### Week 1. 스택 · 큐 - 배열
 
-📆 01.02 (Fri) ~ 01.04 (Sun)
+📆 01.02 (Fri) ~ 01.06 (Tue)
 
 - [[kyo] 성문 열고 닫기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-01-03_kyo_stack_성문-열고-닫기.md)
 - [[kyo] 알파벳 폭발](Algorithm/algorithm-til/Stack_Queue_Hash/2026-01-03_kyo_stack_%EC%95%8C%ED%8C%8C%EB%B2%B3-%ED%8F%AD%EB%B0%9C.md)
 - [[kyo] 택배 박스 정리 시스템](Algorithm/algorithm-til/Stack_Queue_Hash/2026-01-03_kyo_stack_%ED%83%9D%EB%B0%B0-%EB%B0%95%EC%8A%A4-%EC%A0%95%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [[kyo] 명령어 수행하기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-01-04_kyo_queue_명령어-수행하기.md)
 
 
 ---
 
-### Week 2. 연결 리스트 & 이중 연결 리스트
+### Week 2. 스택 · 큐 - 연결 리스트 & 이중 연결 리스트, 해시
 
-📆 01.05 (Mon) ~ 01.12 (Sun)
+📆 01.07 (Wen) ~ 01.12 (Sun)
 
 ---
 
