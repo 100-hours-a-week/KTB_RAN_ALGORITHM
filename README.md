@@ -66,30 +66,22 @@
 
 ### Week 2. 스택 · 큐 - 연결 리스트 & 이중 연결 리스트, 해시
 
-📆 02.06 (Fri) ~ 02.08 (Sun)
-- [ ] 완주하지 못한 선수
-- [ ] 다리를 지나는 트럭
-- [ ] 주식가격
-- [ ] [kyo] 연결리스트 뒤집기
+📆 02.06 (Fri) ~ 02.11 (Wen)
 
-- [ ] 올바른 괄호
-- [ ] 프로세스
-- [ ] 두 큐 합 같게 만들기
-- [ ] 전화번호 목록
-- [ ] 문서화 4 (큐 응용 / 해시)
+- [Lv2 다리를 지나는 트럭](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-09_PG_stack-queue_다리를-지나는-트럭.md)
+- [Lv2 주식가격](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_주식-가격.md)
 
-- [ ] 캐시 (Lv.3)
-- [ ] 문서화 5 (LRU 개념)
-- [ ] 표 편집 (Lv.3)
-- [ ] [kyo] 영상편집기 타임라인 관리
-
-- [ ] 자료구조별 요약 (Week 2 요약)
+- [Lv2 프로세스](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-07_PG_queue_프로세스.md)
+- [Lv2 [1차]캐시](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_캐시.md)
+- Lv2 두 큐 합 같게 만들기
+- Lv3 표 편집
+- **스택/큐 문제 정리**
 
 ---
 
 ### Week 3. 정렬
 
-📆 02.09 (Mon) ~ 02.15 (Sun)
+📆 02.12 (Thu) ~ 02.15 (Sun)
 
 - 버블 / 선택 / 삽입
 - 병합 / 퀵 / 힙 정렬
