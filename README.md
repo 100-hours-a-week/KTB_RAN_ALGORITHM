@@ -53,6 +53,7 @@
 
 - [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
 - [힙 3초 체크리스트 + 힙/정렬/투포인터 구분 트리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_힙-3초-체크리스트-구분-트리.md)
+- [JS 코테 성능 감각 정리 (swap 함수 vs 인라인)](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_JS-코테-성능-감각-정리.md)
 
 ---
 
@@ -97,7 +98,26 @@
 
 ---
 
-### Week 4. 탐색 & 그래프
+### Week 4. 우선순위 큐 & 힙
+
+📆 03.02 (Mon) ~ 03.08 (Sun)
+
+- [[kyo] 컨베이어벨트 자동 처리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_kyo_heap_컨베이어벨트-자동-처리.md)
+- [[Lv.2] 더 맵게](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_PG_heap_더-맵게.md)
+- [Lv.3] 디스크 컨트롤러
+- [Lv.3] 야근지수
+- [Lv.3] 보석쇼핑
+- [[골4] 카드 정렬하기](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_카드-정렬하기.md)
+- [[실버2] 최소 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_최소-힙.md)
+- [[실버1] 절댓값 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_절댓값-힙.md)
+- [골2] 보석 도둑
+- [골2] 가운데를 말해요
+- [[골4] 파일 합치기 3](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_파일-합치기3.md)
+- [골5] 탑
+
+---
+
+### Week 5. 탐색 & 그래프
 
 📆 02.17 (Tue) ~ 02.22 (Sun)
 
@@ -106,22 +126,12 @@
 
 ---
 
-### Week 5. 트리
+### Week 6. 트리
 
 📆 02.23 (Mon) ~ 03.01 (Sun)
 
 - 이진 트리
 - 이진 탐색 트리 (BST)
-
----
-
-### Week 6. 우선순위 큐 & 힙
-
-📆 03.02 (Mon) ~ 03.08 (Sun)
-
-- [[kyo] 컨베이어벨트 자동 처리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_kyo_heap_컨베이어벨트-자동-처리.md)
-- [[Lv.2] 더 맵게](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_PG_heap_더-맵게.md)
-- [Lv.3] 디스크 컨트롤러
 
 ---
 
