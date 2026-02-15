@@ -81,6 +81,8 @@
 - [[Lv.2] 프로세스](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-07_PG_queue_프로세스.md)
 - [[Lv.2] [1차]캐시](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_캐시.md)
 - [[Lv.2] 두 큐 합 같게 만들기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_PG_stack-queue_두-큐-합-같게-만들기.md)
+- [[골5] 수 고르기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_수-고르기.md)
+- [[골4] 부분합](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_부분합.md)
 - [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
 - [Lv.3] 표 편집
 - **스택/큐 정리**
@@ -111,7 +113,7 @@
 - [[실버2] 최소 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_최소-힙.md)
 - [[실버1] 절댓값 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_절댓값-힙.md)
 - [골2] 보석 도둑
-- [골2] 가운데를 말해요
+- [[골2] 가운데를 말해요](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_가운데를-말해요.md)
 - [[골4] 파일 합치기 3](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_파일-합치기3.md)
 - [골5] 탑
 
