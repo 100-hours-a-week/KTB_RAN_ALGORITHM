@@ -68,29 +68,33 @@
 
 📆 02.06 (Fri) ~ 02.11 (Wen)
 
-- [Lv2 다리를 지나는 트럭](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-09_PG_stack-queue_다리를-지나는-트럭.md)
-- [Lv2 주식가격](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_주식-가격.md)
-
-- [Lv2 프로세스](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-07_PG_queue_프로세스.md)
-- [Lv2 [1차]캐시](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_캐시.md)
-- Lv2 두 큐 합 같게 만들기
-- Lv3 표 편집
-- **스택/큐 문제 정리**
+- [[Lv.2] 다리를 지나는 트럭](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-09_PG_stack-queue_다리를-지나는-트럭.md)
+- [[Lv.2] 주식가격](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_주식-가격.md)
+- [[Lv.2] 프로세스](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-07_PG_queue_프로세스.md)
+- [[Lv.2] [1차]캐시](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_캐시.md)
+- [[Lv.2] 두 큐 합 같게 만들기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_PG_stack-queue_두-큐-합-같게-만들기.md)
+- [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
+- [Lv.3] 표 편집
+- **스택/큐 정리**
 
 ---
 
 ### Week 3. 정렬
 
-📆 02.12 (Thu) ~ 02.15 (Sun)
+📆 02.12 (Thu) ~ 02.16 (Mon)
 
-- 버블 / 선택 / 삽입
-- 병합 / 퀵 / 힙 정렬
+- [[Lv.2] H-Index](Algorithm/algorithm-til/Sort/2026-02-12_PG_sort_H-index.md)
+- 더 맵게
+- 디스크 컨트롤러
+- 숫자게임
+- 입국 심사
+- **정렬(버블 선택 삽입 병합 퀵 힙) 정리**
 
 ---
 
 ### Week 4. 탐색 & 그래프
 
-📆 02.16 (Mon) ~ 02.22 (Sun)
+📆 02.17 (Tue) ~ 02.22 (Sun)
 
 - DFS / BFS
 - 그래프 표현 (인접 리스트 / 인접 행렬)
@@ -109,6 +113,8 @@
 ### Week 6. 우선순위 큐 & 힙
 
 📆 03.02 (Mon) ~ 03.08 (Sun)
+
+- [[kyo] 컨베이어벨트 자동 처리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_kyo_heap_컨베이어벨트-자동-처리.md)
 
 ---
 
