@@ -3,14 +3,15 @@
 > 더도 말고 덜도 말고, 하루에 한 문제
 
 > **아침 10분 예열 루틴**
+>
 > - 07:00 ~ 07:02 : 오늘 풀 문제 목록 한 번 훑기
 > - 07:02 ~ 07:05 : 각 문제에서 쓸 것 같은 자료구조만 적기(아직 풀지 말 것)
 > - 07:05 ~ 07:08 : 어제 문서화 한 줄 다시 읽기
-> - 07:08 ~ 07:10 : 오늘 목표 한 줄 적기
->     - 예) “오늘은 큐를 보면 바로 구조가 떠오르게 만들기”
-> -> **그 다음 문제 풀이 시작**
+> - 07:08 ~ 07:10 : 오늘 목표 한 줄 적기 - 예) “오늘은 큐를 보면 바로 구조가 떠오르게 만들기”
+>   -> **그 다음 문제 풀이 시작**
 
 > **실패 허용 기준 (중요)**
+>
 > - 30~40분 막히면 ❌ 집착 금지
 > - 설계 + 핵심 아이디어만 문서화하고 다음 문제로 이동
 > - **문서가 남으면 성공**
@@ -18,14 +19,13 @@
 ### 📌 기본 원칙
 
 - **플랫폼**
-    - 기본: **프로그래머스**
-    - 예외: 강의 흐름상 유사 문제 탐색 시 **백준 병행**
+  - 기본: **프로그래머스**
+  - 예외: 강의 흐름상 유사 문제 탐색 시 **백준 병행**
 - **언어**
-    - JavaScript
+  - JavaScript
 - **빈도**
-    - 하루 1문제 이상
-    - 적어도 한 문제 풀자는 의의
-
+  - 하루 1문제 이상
+  - 적어도 한 문제 풀자는 의의
 
 ---
 
@@ -34,9 +34,7 @@
 - 프로그래머스 **알고리즘 고득점 Kit 전부 풀이**
 - 프로그래머스 **랭킹 5,000위 이내 진입하기**
 
-
-
-###  학습 자료
+### 학습 자료
 
 - **강의**: 자바스크립트로 배우는 자료구조 & 알고리즘
 
@@ -45,7 +43,6 @@
 - 풀이 코드만 남기지 않는다.
 - **접근 과정 / 실패 이유 / 핵심 아이디어**를 함께 기록한다.
 - 같은 유형 문제를 다시 봤을 때 **패턴이 보이도록 정리**한다.
-
 
 ---
 
@@ -69,7 +66,6 @@
 - [[kyo] 명령어 수행하기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-01-04_kyo_queue_명령어-수행하기.md)
 - [[kyo] 두 줄 대기열에서 짝수 번호 뽑기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-01-05_kyo_두줄대기열에서-짝수번호뽑기.md)
 
-
 ---
 
 ### Week 2. 스택 · 큐 - 연결 리스트 & 이중 연결 리스트, 해시
@@ -83,6 +79,7 @@
 - [[Lv.2] 두 큐 합 같게 만들기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_PG_stack-queue_두-큐-합-같게-만들기.md)
 - [[골5] 수 고르기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_수-고르기.md)
 - [[골4] 부분합](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_부분합.md)
+- [[실버4] 괄호](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-19_BOJ_stack_괄호.md)
 - [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
 - [Lv.3] 표 편집
 - **스택/큐 정리**
@@ -94,8 +91,10 @@
 📆 02.12 (Thu) ~ 02.16 (Mon)
 
 - [[Lv.2] H-Index](Algorithm/algorithm-til/Sort/2026-02-12_PG_sort_H-index.md)
+- [[실버5] 나이순 정렬](Algorithm/algorithm-til/Sort/2026-02-19_BOJ_sort_나이순-정렬.md)
+- [[실버5] 좌표 정렬하기](Algorithm/algorithm-til/Sort/2026-02-19_BOJ_sort_좌표-정렬하기.md)
+- [[실버5] 단어 정렬](Algorithm/algorithm-til/Sort/2026-02-16_BOJ_sort_단어-정렬.md)
 - 숫자게임
-- 입국 심사
 - **정렬(버블 선택 삽입 병합 퀵 힙) 정리**
 
 ---
@@ -123,8 +122,25 @@
 
 📆 02.17 (Tue) ~ 02.22 (Sun)
 
-- DFS / BFS
+- [[kyo] 생산 공정 최적화 (CSES 1620)](Algorithm/algorithm-til/Search_Graph/2026-02-21_kyo_binary-search_생산-공정-최적화.md)
+- [[실버2] 랜선 자르기](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_binary-search_랜선-자르기.md)
+- [[실버2] 나무 자르기](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_binary-search_나무-자르기.md)
+- 공유기 설치
+- 입국 심사
+- 용액
+- 수 찾기
+- 가장 긴 증가하는 부분 수열 2
 - 그래프 표현 (인접 리스트 / 인접 행렬)
+- DFS / BFS
+- [실버2] 연결 요소의 개수 (BOJ 11724)
+- [실버2] DFS와 BFS (BOJ 1260)
+- [실버1] 미로 탐색 (BOJ 2178)
+- [실버2] 유기농 배추 (BOJ 1012)
+- 바이러스
+- [실버1] 숨바꼭질 (BOJ 1697)
+- [[실버3] 소수 구하기](Algorithm/algorithm-til/Search_Graph/2026-02-19_BOJ_math_소수-구하기.md)
+- [정리] 이분탐색
+- [정리] 그래프 BFS / DFS
 
 ---
 
@@ -148,3 +164,5 @@
 ### Week 8. 탐욕법 (Greedy)
 
 📆 03.16 (Mon) ~ 03.22 (Sun)
+
+- [[실버4] 설탕 배달](Algorithm/algorithm-til/Greedy/2026-02-19_BOJ_greedy_설탕-배달.md)
