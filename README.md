@@ -151,18 +151,20 @@ _(26.02.06 기준)_
 - [[실버2] 랜선 자르기](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_binary-search_랜선-자르기.md)
 - [[실버2] 나무 자르기](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_binary-search_나무-자르기.md)
 - [[골드4] 공유기 설치](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_binary-search_공유기-설치.md)
+- 수 찾기
+- 숫자 카드2
+- 가장 긴 증가하는 부분 수열 2
 - 징검다리 건너기
 - 용액
-- 수 찾기
-- 가장 긴 증가하는 부분 수열 2
 - [[실버2] 연결 요소의 개수](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_dfs_연결-요소의-개수.md)
 - [[실버2] DFS와 BFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_graph_DFS와-BFS.md)
 - [[실버1] 미로 탐색](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_미로-탐색.md)
 - [[실버2] 유기농 배추](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_유기농-배추.md)
+- [[실버1] 단지번호붙이기](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_bfs_단지번호붙이기.md)
 - [[실버3] 바이러스](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_바이러스.md)
 - [[실버1] 숨바꼭질](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질.md)
 - [[실버3] 소수 구하기](Algorithm/algorithm-til/Search_Graph/2026-02-19_BOJ_math_소수-구하기.md)
-- 쉬운 최단거리
+- [[실버1] 쉬운 최단거리](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_bfs_쉬운-최단거리.md)
 - [[골드5] 숨바꼭질 4](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질4.md)
 - DSLH
 - K번째 수
