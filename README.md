@@ -151,8 +151,8 @@ _(26.02.06 기준)_
 - [[실버2] 랜선 자르기](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_binary-search_랜선-자르기.md)
 - [[실버2] 나무 자르기](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_binary-search_나무-자르기.md)
 - [[골드4] 공유기 설치](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_binary-search_공유기-설치.md)
-- 수 찾기
-- 숫자 카드2
+- [[실버4] 수 찾기](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_binary-search_수-찾기.md)
+- [[실버4] 숫자 카드2](Algorithm/algorithm-til/Search_Graph/2026-02-25_BOJ_binary-search_숫자-카드2.md)
 - 가장 긴 증가하는 부분 수열 2
 - 징검다리 건너기
 - 용액
