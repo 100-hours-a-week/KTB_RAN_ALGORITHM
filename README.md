@@ -62,6 +62,7 @@ _(26.02.06 기준)_
 - 📌 [개념 정리 - 그래프 BFS / DFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_algo_그래프-BFS-DFS-정리.md)
 - 📌 [개념 정리 - 우선순위큐와 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-28_algo_우선순위-큐와-힙.md)
 - 📌 [개념 정리 - DP](Algorithm/algorithm-til/DP/2026-02-28_algo_DP.md)
+- 📌 [DP 실전 인사이트 체크리스트](Algorithm/algorithm-til/DP/2026-03-01_dp-실전-인사이트-체크리스트.md)
 - [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
 - [힙 3초 체크리스트 + 힙/정렬/투포인터 구분 트리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_힙-3초-체크리스트-구분-트리.md)
 - [JS 코테 성능 감각 정리 (swap 함수 vs 인라인)](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_JS-코테-성능-감각-정리.md)
@@ -190,6 +191,7 @@ _(26.02.06 기준)_
 - [[Lv.3] 정수 삼각형](Algorithm/algorithm-til/DP/2026-01-02_programmers_lv3_정수삼각형.md)
 - [[실버3] 1로 만들기](Algorithm/algorithm-til/DP/2026-02-28_BOJ_dp_1로-만들기.md)
 - [[실버3] 1,2,3 더하기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_1-2-3-더하기.md)
+- [[실버3] 계단 오르기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_계단-오르기.md)
 
 ---
 
