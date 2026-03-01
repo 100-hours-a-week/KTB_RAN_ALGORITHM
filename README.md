@@ -50,17 +50,18 @@ _(26.02.06 기준)_
 - 풀이 코드만 남기지 않는다.
 - **접근 과정 / 실패 이유 / 핵심 아이디어**를 함께 기록한다.
 - 같은 유형 문제를 다시 봤을 때 **패턴이 보이도록 정리**한다.
+- **모든 문제 정리의 마지막에는 회고 KPT(Keep/Problem/Try)를 반드시 작성한다.** (거버넌스)
 
 ---
 
 ## 알고리즘 정리 세션
 
-- 📌 [개념 정리] **스택/큐 정리**
-- 📌 [개념 정리] **정렬(버블 선택 삽입 병합 퀵 힙) 정리**
-- 📌 [개념 정리] 이분탐색
-- 📌 [[개념 정리] 그래프 BFS / DFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_algo_그래프-BFS-DFS-정리.md)
-- 📌 [개념 정리] 우선순위큐와 힙
-- 📌 [개념 정리] DP
+- 📌 [개념 정리 - 스택/큐 정리](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-28_algo_stack-queue.md)
+- 📌 [개념 정리 - 정렬(버블 선택 삽입 병합 퀵 힙) 정리](Algorithm/algorithm-til/Sort/2026-02-28_algo_정렬.md)
+- 📌 [개념 정리 - 이분탐색](Algorithm/algorithm-til/Search_Graph/2026-02-28_algo_이분탐색.md)
+- 📌 [개념 정리 - 그래프 BFS / DFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_algo_그래프-BFS-DFS-정리.md)
+- 📌 [개념 정리 - 우선순위큐와 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-28_algo_우선순위-큐와-힙.md)
+- 📌 [개념 정리 - DP](Algorithm/algorithm-til/DP/2026-02-28_algo_DP.md)
 - [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
 - [힙 3초 체크리스트 + 힙/정렬/투포인터 구분 트리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_힙-3초-체크리스트-구분-트리.md)
 - [JS 코테 성능 감각 정리 (swap 함수 vs 인라인)](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_JS-코테-성능-감각-정리.md)
@@ -92,11 +93,13 @@ _(26.02.06 기준)_
 - [[Lv.2] [1차]캐시](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-11_PG_stack-queue_캐시.md)
 - [[Lv.2] 두 큐 합 같게 만들기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_PG_stack-queue_두-큐-합-같게-만들기.md)
 - [[실버4] 괄호](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-19_BOJ_stack_괄호.md)
-- [Lv.3] 표 편집
 
 ---
 
 ### 보충. 투포인터
+
+> - [💡 [kyo] 투포인터 정렬 유형](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-28_kyo_two-pointer_투포인터-정렬-유형.md)
+> - [💡 [kyo] 투포인터 문제 유형 2. 선물 배분하기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-28_kyo_two-pointer_선물-배분하기.md)
 
 - [[골5] 수 고르기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_수-고르기.md)
 - [[골4] 부분합](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_부분합.md)
@@ -111,7 +114,7 @@ _(26.02.06 기준)_
 - [[실버5] 나이순 정렬](Algorithm/algorithm-til/Sort/2026-02-19_BOJ_sort_나이순-정렬.md)
 - [[실버5] 좌표 정렬하기](Algorithm/algorithm-til/Sort/2026-02-19_BOJ_sort_좌표-정렬하기.md)
 - [[실버5] 단어 정렬](Algorithm/algorithm-til/Sort/2026-02-16_BOJ_sort_단어-정렬.md)
-- 숫자게임
+- [[실버4] 국영수](Algorithm/algorithm-til/Sort/2026-02-25_BOJ_sort_국영수.md)
 
 ---
 
@@ -122,16 +125,11 @@ _(26.02.06 기준)_
 📆 02.12 (Thu) ~ 02.16 (Mon)
 
 - [[Lv.2] 더 맵게](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_PG_heap_더-맵게.md)
-- [Lv.3] 디스크 컨트롤러
-- [Lv.3] 야근지수
-- [Lv.3] 보석쇼핑
 - [[골4] 카드 정렬하기](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_카드-정렬하기.md)
 - [[실버2] 최소 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_최소-힙.md)
 - [[실버1] 절댓값 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_절댓값-힙.md)
-- [골2] 보석 도둑
 - [[골2] 가운데를 말해요](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_가운데를-말해요.md)
 - [[골4] 파일 합치기 3](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_BOJ_heap_파일-합치기3.md)
-- [골5] 탑
 
 ---
 
@@ -142,7 +140,6 @@ _(26.02.06 기준)_
 
 > - [💡 [kyo] 그래프 BFS/DFS 문제 유형 1. 우주기지국 통신망](Algorithm/algorithm-til/Search_Graph/2026-02-21_kyo_dfs_우주기지국-통신망.md)
 > - [💡 [kyo] 그래프 BFS/DFS 문제 유형 2. 탐사로봇의 귀환 경로(BFS)](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_bfs_탐사로봇의-귀환-경로.md)
-> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 3. 바이러스 감염 구역(BFS)]
 > - [💡 [kyo] 그래프 BFS/DFS 문제 유형 4. 도시의 안전거리(BFS+그리드)](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_bfs_도시의-안전거리.md)
 
 📆 02.17 (Tue) ~ 02.24 (Tus)
@@ -153,9 +150,6 @@ _(26.02.06 기준)_
 - [[골드4] 공유기 설치](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_binary-search_공유기-설치.md)
 - [[실버4] 수 찾기](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_binary-search_수-찾기.md)
 - [[실버4] 숫자 카드2](Algorithm/algorithm-til/Search_Graph/2026-02-25_BOJ_binary-search_숫자-카드2.md)
-- 가장 긴 증가하는 부분 수열 2
-- 징검다리 건너기
-- 용액
 - [[실버2] 연결 요소의 개수](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_dfs_연결-요소의-개수.md)
 - [[실버2] DFS와 BFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_graph_DFS와-BFS.md)
 - [[실버1] 미로 탐색](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_미로-탐색.md)
@@ -166,10 +160,7 @@ _(26.02.06 기준)_
 - [[실버3] 소수 구하기](Algorithm/algorithm-til/Search_Graph/2026-02-19_BOJ_math_소수-구하기.md)
 - [[실버1] 쉬운 최단거리](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_bfs_쉬운-최단거리.md)
 - [[골드5] 숨바꼭질 4](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질4.md)
-- DSLH
-- K번째 수
-- 적록색약
-- 토마토
+- [[골드5] 토마토](Algorithm/algorithm-til/Search_Graph/2026-02-25_BOJ_bfs_토마토.md)
 
 ---
 
@@ -182,20 +173,23 @@ _(26.02.06 기준)_
 
 ### Week 6. 트리
 
+> - [💡 트리 문제 유형 1. [kyo] 탐험가의 보물지도 (이진트리/순회)](Algorithm/algorithm-til/Tree/2026-02-28_kyo_tree_탐험가의-보물지도.md)
+
 📆 02.25 (Wen) ~ 03.01 (Sun)
 
-- 이진 트리
-- 이진 탐색 트리 (BST)
-
----
-
 ### Week 7. 다이나믹 프로그래밍
+
+> - [💡 DP 유형 1. [kyo] 계단오르기](Algorithm/algorithm-til/DP/2026-02-28_kyo_dp_계단오르기.md)
+> - [💡 DP 유형 2. [kyo] 도둑의 최적 전략](Algorithm/algorithm-til/DP/2026-02-28_kyo_dp_도둑의-최적-전략.md)
+> - [💡 DP 유형 3. [kyo] 최대부분 증가 수열](Algorithm/algorithm-til/DP/2026-02-28_kyo_dp_최대부분-증가-수열.md)
+> - [💡 DP 유형 4. [kyo] 동전 교환하기](Algorithm/algorithm-til/DP/2026-02-28_kyo_dp_동전-교환하기.md)
+> - [💡 DP 유형 5. [kyo] 시식투어 챌린지](Algorithm/algorithm-til/DP/2026-02-28_kyo_dp_시식투어-챌린지.md)
 
 📆 03.02 (Mon) ~ 03.08 (Sun)
 
 - [[Lv.3] 정수 삼각형](Algorithm/algorithm-til/DP/2026-01-02_programmers_lv3_정수삼각형.md)
-- 1로 만들기
-- 1,2,3 더하기
+- [[실버3] 1로 만들기](Algorithm/algorithm-til/DP/2026-02-28_BOJ_dp_1로-만들기.md)
+- [[실버3] 1,2,3 더하기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_1-2-3-더하기.md)
 
 ---
 
