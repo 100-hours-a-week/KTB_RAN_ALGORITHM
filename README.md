@@ -61,12 +61,22 @@ _(26.02.06 기준)_
 - 📌 [개념 정리 - 이분탐색](Algorithm/algorithm-til/Search_Graph/2026-02-28_algo_이분탐색.md)
 - 📌 [개념 정리 - 그래프 BFS / DFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_algo_그래프-BFS-DFS-정리.md)
 - 📌 [개념 정리 - 우선순위큐와 힙](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-28_algo_우선순위-큐와-힙.md)
+- [ㄴ 힙 3초 체크리스트 + 힙/정렬/투포인터 구분 트리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_힙-3초-체크리스트-구분-트리.md)
 - 📌 [개념 정리 - DP](Algorithm/algorithm-til/DP/2026-02-28_algo_DP.md)
-- 📌 [DP 실전 인사이트 체크리스트](Algorithm/algorithm-til/DP/2026-03-01_dp-실전-인사이트-체크리스트.md)
-- [투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
-- [힙 3초 체크리스트 + 힙/정렬/투포인터 구분 트리](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_힙-3초-체크리스트-구분-트리.md)
+- [ㄴ DP 실전 인사이트 체크리스트](Algorithm/algorithm-til/DP/2026-03-01_dp-실전-인사이트-체크리스트.md)
+- [ㄴ 분할정복 vs DP vs 이분탐색](Algorithm/algorithm-til/Divide_Conquer/2026-03-03_algo_분할정복-vs-dp-vs-이분탐색-정리-가독성.md)
+- [ㄴ 투포인터 알아채는 법](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-14_algo_투포인터-알아채는-법.md)
 - [JS 코테 성능 감각 정리 (swap 함수 vs 인라인)](Algorithm/algorithm-til/Heap_PriorityQueue/2026-02-15_algo_JS-코테-성능-감각-정리.md)
 - [문제 보고 알고리즘 감지 루틴](Algorithm/algorithm-til/Search_Graph/2026-02-22_algo_문제-보고-알고리즘-감지-루틴.md)
+
+## 오랜만에 코테하는 너에게
+
+- [🪶 오랜만에 BFS](Algorithm/algorithm-til/Search_Graph/2026-03-13_algo_오랜만에-BFS를-푸는-너에게.md)
+- [🪶 오랜만에 이분탐색](Algorithm/algorithm-til/Search_Graph/2026-03-15_algo_오랜만에-이분탐색을-푸는-너에게.md)
+- [🪶 오랜만에 분할 정복]()
+- [🪶 오랜만에 DP]()
+- [🪶 오랜만에 백트래킹]()
+- [🪶 오랜만에 투포인터]()
 
 ---
 
@@ -136,12 +146,10 @@ _(26.02.06 기준)_
 
 ### Week 5. 탐색 & 그래프
 
+#### 5-1. 이분탐색
+
 > - [💡 [kyo] 이분탐색 문제 유형 1. 생산 공정 최적화 (CSES 1620)](Algorithm/algorithm-til/Search_Graph/2026-02-21_kyo_binary-search_생산-공정-최적화.md)
 > - [💡 [kyo] 이분탐색 문제 유형 2. 깨지는 유리 다리 건너기](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_binary-search_깨지는-유리-다리-건너기.md)
-
-> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 1. 우주기지국 통신망](Algorithm/algorithm-til/Search_Graph/2026-02-21_kyo_dfs_우주기지국-통신망.md)
-> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 2. 탐사로봇의 귀환 경로(BFS)](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_bfs_탐사로봇의-귀환-경로.md)
-> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 4. 도시의 안전거리(BFS+그리드)](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_bfs_도시의-안전거리.md)
 
 📆 02.17 (Tue) ~ 02.24 (Tus)
 
@@ -151,6 +159,17 @@ _(26.02.06 기준)_
 - [[골드4] 공유기 설치](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_binary-search_공유기-설치.md)
 - [[실버4] 수 찾기](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_binary-search_수-찾기.md)
 - [[실버4] 숫자 카드2](Algorithm/algorithm-til/Search_Graph/2026-02-25_BOJ_binary-search_숫자-카드2.md)
+- [[실버5] 숫자 카드](Algorithm/algorithm-til/Search_Graph/2026-03-15_BOJ_binary-search_숫자-카드.md)
+- [[실버3] 선분 위의 점](Algorithm/algorithm-til/Search_Graph/2026-03-15_BOJ_binary-search_선분-위의-점.md)
+
+#### 5-2. 그래프 (BFS / DFS)
+
+> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 1. 우주기지국 통신망](Algorithm/algorithm-til/Search_Graph/2026-02-21_kyo_dfs_우주기지국-통신망.md)
+> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 2. 탐사로봇의 귀환 경로(BFS)](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_bfs_탐사로봇의-귀환-경로.md)
+> - [💡 [kyo] 그래프 BFS/DFS 문제 유형 4. 도시의 안전거리(BFS+그리드)](Algorithm/algorithm-til/Search_Graph/2026-02-22_kyo_bfs_도시의-안전거리.md)
+
+📆 02.17 (Tue) ~ 02.24 (Tus)
+
 - [[실버2] 연결 요소의 개수](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_dfs_연결-요소의-개수.md)
 - [[실버2] DFS와 BFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_graph_DFS와-BFS.md)
 - [[실버1] 미로 탐색](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_미로-탐색.md)
@@ -161,7 +180,21 @@ _(26.02.06 기준)_
 - [[실버3] 소수 구하기](Algorithm/algorithm-til/Search_Graph/2026-02-19_BOJ_math_소수-구하기.md)
 - [[실버1] 쉬운 최단거리](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_bfs_쉬운-최단거리.md)
 - [[골드5] 숨바꼭질 4](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질4.md)
+- [[실버1] 나이트의 이동](Algorithm/algorithm-til/Search_Graph/2026-03-13_BOJ_bfs_나이트의-이동.md)
 - [[골드5] 토마토](Algorithm/algorithm-til/Search_Graph/2026-02-25_BOJ_bfs_토마토.md)
+
+### 보충. DFS 백트래킹
+
+- [[실버3] N과 M (1)](Algorithm/algorithm-til/Search_Graph/2026-03-02_BOJ_backtracking_N과-M-1.md)
+- [[실버3] N과 M (2)](Algorithm/algorithm-til/Search_Graph/2026-03-02_BOJ_backtracking_N과-M-2.md)
+- [[실버3] N과 M (4)](Algorithm/algorithm-til/Search_Graph/2026-03-03_BOJ_backtracking_N과-M-4.md)
+- [백트래킹 복기: 재귀 호출 트리 시각화](Algorithm/algorithm-til/Search_Graph/2026-03-02_algo_backtracking_재귀-호출-트리-복기.md)
+
+---
+
+### 보충. 분할 정복 (Divide & Conquer)
+
+- [[실버2] 색종이 만들기](Algorithm/algorithm-til/Divide_Conquer/2026-03-03_BOJ_divide-and-conquer_색종이-만들기.md)
 
 ---
 
@@ -192,6 +225,7 @@ _(26.02.06 기준)_
 - [[실버3] 1로 만들기](Algorithm/algorithm-til/DP/2026-02-28_BOJ_dp_1로-만들기.md)
 - [[실버3] 1,2,3 더하기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_1-2-3-더하기.md)
 - [[실버3] 계단 오르기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_계단-오르기.md)
+- [[실버5] 돌 게임](Algorithm/algorithm-til/DP/2026-03-07_BOJ_dp_돌-게임.md)
 
 ---
 

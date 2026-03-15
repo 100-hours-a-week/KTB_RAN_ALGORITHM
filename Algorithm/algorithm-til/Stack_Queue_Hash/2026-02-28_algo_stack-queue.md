@@ -49,6 +49,28 @@ console.log(top);//"C"
 console.log("stack",stack); //[ "A", "B", "C" ]
 ```
 
+### 파이썬 스택 코드 (`list`)
+- 파이썬에서는 `list`로 스택을 가장 간단하게 구현할 수 있다.
+
+```python
+stack = []
+
+# push
+stack.append(1)
+stack.append(2)
+stack.append(3)
+
+# pop
+print(stack.pop())   # 3
+
+# peek (top 확인)
+print(stack[-1])     # 2
+
+# stack 비었는지 확인
+if not stack:
+    print("empty")
+```
+
 
 ## 스택 문제 풀이
 [스택](https://www.notion.so/2ddee90a967f80f2ba63de8c77af2e0f)
@@ -81,6 +103,30 @@ class Queue{
     return this.array[0];
   }
 }
+```
+
+### 파이썬 큐 코드 (`deque`)
+- 파이썬 큐는 `collections.deque`를 사용하는 것이 정석이다.
+
+```python
+from collections import deque
+
+queue = deque()
+
+# enqueue
+queue.append(1)
+queue.append(2)
+queue.append(3)
+
+# dequeue
+print(queue.popleft())   # 1
+
+# peek
+print(queue[0])          # 2
+
+# empty check
+if not queue:
+    print("empty")
 ```
 
 ### 연결리스트
