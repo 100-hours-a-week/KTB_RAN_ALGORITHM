@@ -2,26 +2,10 @@
 
 > 더도 말고 덜도 말고, 하루에 한 문제
 
-> **아침 10분 예열 루틴**
->
-> - 07:00 ~ 07:02 : 오늘 풀 문제 목록 한 번 훑기
-> - 07:02 ~ 07:05 : 각 문제에서 쓸 것 같은 자료구조만 적기(아직 풀지 말 것)
-> - 07:05 ~ 07:08 : 어제 문서화 한 줄 다시 읽기
->   - **그 다음 문제 풀이 시작**
-
-> **실패 허용 기준**
->
-> - 30~40분 막히면 **집착 금지**
-> - 설계 + 핵심 아이디어만 문서화하고 다음 문제로 이동
-> - **문서가 남으면 성공**
-
 ### 📌 기본 원칙
 
-- **플랫폼**
-  - 기본: **프로그래머스**
-  - 예외: 강의 흐름상 유사 문제 탐색 시 **백준 병행**
-- **언어**
-  - JavaScript
+- **플랫폼** : **프로그래머스, 백준**
+- **언어** : JavaScript -> Python
 - **빈도**
   - 하루 1문제 이상
   - 적어도 한 문제 풀자는 의의
@@ -38,12 +22,12 @@ _(26.02.06 기준)_
 ### 달성 목표
 
 - 프로그래머스 **알고리즘 고득점 Kit 전부 풀이**
-- 프로그래머스 **랭킹 5,000위 이내 진입하기**
-- 백준 **골드 5** 달성하기
+- ✅ 백준 **골드 5** 달성하기 _(26.04.07)_
 
 ### 학습 자료
 
 - **강의**: 자바스크립트로 배우는 자료구조 & 알고리즘
+- 교재 :
 
 ### 기록 방식
 
@@ -74,7 +58,7 @@ _(26.02.06 기준)_
 - [🪶 오랜만에 BFS](Algorithm/algorithm-til/Search_Graph/2026-03-13_algo_오랜만에-BFS를-푸는-너에게.md)
 - [🪶 오랜만에 이분탐색](Algorithm/algorithm-til/Search_Graph/2026-03-15_algo_오랜만에-이분탐색을-푸는-너에게.md)
 - [🪶 오랜만에 분할 정복]()
-- [🪶 오랜만에 DP]()
+- [🪶 오랜만에 DP](Algorithm/algorithm-til/DP/2026-03-17_algo_오랜만에-DP를-푸는-너에게.md)
 - [🪶 오랜만에 백트래킹]()
 - [🪶 오랜만에 투포인터]()
 
@@ -126,6 +110,8 @@ _(26.02.06 기준)_
 - [[실버5] 좌표 정렬하기](Algorithm/algorithm-til/Sort/2026-02-19_BOJ_sort_좌표-정렬하기.md)
 - [[실버5] 단어 정렬](Algorithm/algorithm-til/Sort/2026-02-16_BOJ_sort_단어-정렬.md)
 - [[실버4] 국영수](Algorithm/algorithm-til/Sort/2026-02-25_BOJ_sort_국영수.md)
+- [[브론즈1] 수 정렬하기 3](Algorithm/algorithm-til/Sort/2026-03-22_BOJ_sort_수-정렬하기3.md)
+- [[플래티넘5] 큰 수 만들기](Algorithm/algorithm-til/Sort/2026-04-07_BOJ_sort_큰-수-만들기.md)
 
 ---
 
@@ -172,6 +158,7 @@ _(26.02.06 기준)_
 
 - [[실버2] 연결 요소의 개수](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_dfs_연결-요소의-개수.md)
 - [[실버2] DFS와 BFS](Algorithm/algorithm-til/Search_Graph/2026-02-21_BOJ_graph_DFS와-BFS.md)
+- [[실버2] 트리의 부모 찾기](Algorithm/algorithm-til/Search_Graph/2026-04-07_BOJ_bfs_트리의-부모-찾기.md)
 - [[실버1] 미로 탐색](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_미로-탐색.md)
 - [[실버2] 유기농 배추](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_유기농-배추.md)
 - [[실버1] 단지번호붙이기](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_bfs_단지번호붙이기.md)
@@ -183,11 +170,17 @@ _(26.02.06 기준)_
 - [[실버1] 나이트의 이동](Algorithm/algorithm-til/Search_Graph/2026-03-13_BOJ_bfs_나이트의-이동.md)
 - [[골드5] 토마토](Algorithm/algorithm-til/Search_Graph/2026-02-25_BOJ_bfs_토마토.md)
 
+#### 5-3. 최단 경로 (다익스트라)
+
+- [[골드4] 최단경로](Algorithm/algorithm-til/Search_Graph/2026-03-18_BOJ_dijkstra_최단경로.md)
+- [[골드5] 최소비용 구하기](Algorithm/algorithm-til/Search_Graph/2026-03-19_BOJ_dijkstra_최소비용-구하기.md)
+
 ### 보충. DFS 백트래킹
 
 - [[실버3] N과 M (1)](Algorithm/algorithm-til/Search_Graph/2026-03-02_BOJ_backtracking_N과-M-1.md)
 - [[실버3] N과 M (2)](Algorithm/algorithm-til/Search_Graph/2026-03-02_BOJ_backtracking_N과-M-2.md)
 - [[실버3] N과 M (4)](Algorithm/algorithm-til/Search_Graph/2026-03-03_BOJ_backtracking_N과-M-4.md)
+- [[실버3] N과 M (5)](Algorithm/algorithm-til/Search_Graph/2026-03-19_BOJ_backtracking_N과-M-5.md)
 - [백트래킹 복기: 재귀 호출 트리 시각화](Algorithm/algorithm-til/Search_Graph/2026-03-02_algo_backtracking_재귀-호출-트리-복기.md)
 
 ---
@@ -195,6 +188,7 @@ _(26.02.06 기준)_
 ### 보충. 분할 정복 (Divide & Conquer)
 
 - [[실버2] 색종이 만들기](Algorithm/algorithm-til/Divide_Conquer/2026-03-03_BOJ_divide-and-conquer_색종이-만들기.md)
+- [[골드5] Z](Algorithm/algorithm-til/Divide_Conquer/2026-04-07_BOJ_divide-and-conquer_Z.md)
 
 ---
 
@@ -225,7 +219,9 @@ _(26.02.06 기준)_
 - [[실버3] 1로 만들기](Algorithm/algorithm-til/DP/2026-02-28_BOJ_dp_1로-만들기.md)
 - [[실버3] 1,2,3 더하기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_1-2-3-더하기.md)
 - [[실버3] 계단 오르기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_계단-오르기.md)
+- [[실버3] 2xn 타일링](Algorithm/algorithm-til/DP/2026-03-20_BOJ_dp_2xn-타일링.md)
 - [[실버5] 돌 게임](Algorithm/algorithm-til/DP/2026-03-07_BOJ_dp_돌-게임.md)
+- [[실버1] RGB거리](Algorithm/algorithm-til/DP/2026-03-17_BOJ_dp_RGB거리.md)
 
 ---
 
