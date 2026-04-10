@@ -166,6 +166,7 @@ _(26.02.06 기준)_
 - [[실버3] 바이러스](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_바이러스.md)
 - [[실버1] 숨바꼭질](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질.md)
 - [[실버3] 소수 구하기](Algorithm/algorithm-til/Search_Graph/2026-02-19_BOJ_math_소수-구하기.md)
+- [[실버5] 팩토리얼 0의 개수](Algorithm/algorithm-til/Search_Graph/2026-04-10_BOJ_math_팩토리얼-0의-개수.md)
 - [[실버1] 쉬운 최단거리](Algorithm/algorithm-til/Search_Graph/2026-02-24_BOJ_bfs_쉬운-최단거리.md)
 - [[골드5] 숨바꼭질 4](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질4.md)
 - [[실버1] 나이트의 이동](Algorithm/algorithm-til/Search_Graph/2026-03-13_BOJ_bfs_나이트의-이동.md)
