@@ -110,6 +110,7 @@ _(26.02.06 기준)_
 - [[실버5] 좌표 정렬하기](Algorithm/algorithm-til/Sort/2026-02-19_BOJ_sort_좌표-정렬하기.md)
 - [[실버5] 단어 정렬](Algorithm/algorithm-til/Sort/2026-02-16_BOJ_sort_단어-정렬.md)
 - [[실버4] 국영수](Algorithm/algorithm-til/Sort/2026-02-25_BOJ_sort_국영수.md)
+- [[실버4] 듣보잡](Algorithm/algorithm-til/Sort/2026-04-13_BOJ_sort_듣보잡.md)
 - [[브론즈1] 수 정렬하기 3](Algorithm/algorithm-til/Sort/2026-03-22_BOJ_sort_수-정렬하기3.md)
 - [[플래티넘5] 큰 수 만들기](Algorithm/algorithm-til/Sort/2026-04-07_BOJ_sort_큰-수-만들기.md)
 
