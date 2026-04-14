@@ -241,6 +241,39 @@ queue = [[start]];
 visited[start] = true;
 ```
 ---
+## 4. 필요하다면, `dist` 거리
+최단 거리(몇 번 만에 도달했는지)까지 필요하면 `visited`만으로는 부족함.
+
+`dist[x]`를 "시작점에서 x까지의 간선 수"로 두면 됨.
+
+### 기본 규칙
+```text
+1) 시작점 dist[start] = 0
+2) 아직 방문 안 한 next를 큐에 넣을 때
+3) dist[next] = dist[current] + 1
+```
+
+```javascript
+const queue = [start];
+const visited = Array(n + 1).fill(false);
+const dist = Array(n + 1).fill(-1); // -1: 아직 도달 못함
+
+visited[start] = true;
+dist[start] = 0;
+
+while (queue.length) {
+  const current = queue.shift();
+
+  for (const next of graph[current]) {
+    if (!visited[next]) {
+      visited[next] = true;
+      dist[next] = dist[current] + 1;
+      queue.push(next);
+    }
+  }
+}
+```
+---
 #  BFS 핵심 공식
 ```javascript
 queue.push(start)
@@ -306,4 +339,3 @@ fun dfs(graph:List<List<Int>>,visited:MutableList<Boolean>,currentV:Int){
 
 }
     ```
-
