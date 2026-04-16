@@ -60,7 +60,7 @@ _(26.02.06 기준)_
 - [🪶 오랜만에 분할 정복]()
 - [🪶 오랜만에 DP](Algorithm/algorithm-til/DP/2026-03-17_algo_오랜만에-DP를-푸는-너에게.md)
 - [🪶 오랜만에 백트래킹]()
-- [🪶 오랜만에 투포인터]()
+- [🪶 오랜만에 투포인터](Algorithm/algorithm-til/Stack_Queue_Hash/2026-04-16_algo_오랜만에-투포인터를-푸는-너에게.md)
 
 ---
 
@@ -98,6 +98,7 @@ _(26.02.06 기준)_
 
 - [[골5] 수 고르기](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_수-고르기.md)
 - [[골4] 부분합](Algorithm/algorithm-til/Stack_Queue_Hash/2026-02-16_BOJ_two-pointer_부분합.md)
+- [[골3] 세 용액](Algorithm/algorithm-til/Stack_Queue_Hash/2026-04-16_BOJ_two-pointer_세-용액.md)
 
 ---
 
