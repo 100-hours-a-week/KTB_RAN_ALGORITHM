@@ -227,6 +227,7 @@ _(26.02.06 기준)_
 - [[실버3] 2xn 타일링](Algorithm/algorithm-til/DP/2026-03-20_BOJ_dp_2xn-타일링.md)
 - [[실버5] 돌 게임](Algorithm/algorithm-til/DP/2026-03-07_BOJ_dp_돌-게임.md)
 - [[실버1] RGB거리](Algorithm/algorithm-til/DP/2026-03-17_BOJ_dp_RGB거리.md)
+- [[골드3] 신기한 키보드](Algorithm/algorithm-til/DP/2026-04-16_BOJ_dp_신기한-키보드.md)
 
 ---
 
