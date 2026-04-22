@@ -181,6 +181,7 @@ _(26.02.06 기준)_
 
 - [[골드4] 최단경로](Algorithm/algorithm-til/Search_Graph/2026-03-18_BOJ_dijkstra_최단경로.md)
 - [[골드5] 최소비용 구하기](Algorithm/algorithm-til/Search_Graph/2026-03-19_BOJ_dijkstra_최소비용-구하기.md)
+- [[골드4] 타임머신](Algorithm/algorithm-til/Search_Graph/2026-04-23_BOJ_bellman-ford_타임머신.md)
 - [[골드4] 플로이드](Algorithm/algorithm-til/Search_Graph/2026-04-21_BOJ_floyd-warshall_플로이드.md)
 
 ### 보충. DFS 백트래킹
